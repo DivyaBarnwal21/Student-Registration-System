@@ -71,8 +71,44 @@ A desktop application built with Python’s Tkinter GUI and MySQL backend to man
 - Use View Results to fetch and display student exam records.
 
 
-# Screenshoots:
+# Screenshots:
 ![image](https://github.com/user-attachments/assets/7f97c6eb-14d8-4cf8-b88d-dabddef36320)
+![image](https://github.com/user-attachments/assets/5690d28f-7850-48a5-afbb-2aa60d3bcbac)
+
+# How It Works
+backend.py:
+
+- Uses mysql.connector.connect(**db_config) to connect 
+
+- Contains functions to verify login, add students/exams/results, and retrieve results.
+
+main.py (or GUI script):
+
+- Creates multi-page UI: login, dashboard, management, and view results.
+
+- Uses tkinter.Label, tk.Entry, ttk.Notebook, ttk.Treeview, messagebox—standard Tkinter widgets .
+
+- Uses PIL.ImageTk for background image handling.
+
+# Notes & Tips:
+- Store passwords securely in production (use hashing and salting).
+
+- Use parameterized queries (%s) to prevent SQL injection.
+
+- Add error handling around database operations for robustness.
+
+# License
+  This project is licensed under the MIT License.
+
+# Contact
+  Created by Divya Barnwal
+  Contact:db8123@srmist.edu.in
+
+
+
+
+
+
 
 
   
