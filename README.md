@@ -39,9 +39,13 @@ A desktop application built with Python’s Tkinter GUI and MySQL backend to man
 3. setup MySql Database:
    
    CREATE DATABASE student_results;
+   
    CREATE TABLE users(username VARCHAR(50), password VARCHAR(50));
+   
    CREATE TABLE students(...);
+   
    CREATE TABLE exams(...);
+   
    CREATE TABLE results(...);
    
 5. Update backend.py db_config with your MySQL credentials:
@@ -102,6 +106,7 @@ main.py (or GUI script):
 
 # Contact
   Created by Divya Barnwal
+  
   Contact:db8123@srmist.edu.in
 
 
