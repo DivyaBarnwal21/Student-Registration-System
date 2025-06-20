@@ -72,6 +72,8 @@ A desktop application built with Python’s Tkinter GUI and MySQL backend to man
 
 
 # Screenshoots:
+  https://github.com/DivyaBarnwal21/Student-Registration-System/blob/main/Student%20DBMSProject/dashboard.jpg
+
   
 
 
