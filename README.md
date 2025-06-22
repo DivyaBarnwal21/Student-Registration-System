@@ -76,17 +76,17 @@ A desktop application built with Python’s Tkinter GUI and MySQL backend to man
 
 
 # Screenshots:
-1.Login Page:
+# 1.Login Page:
   ![image](https://github.com/user-attachments/assets/953347bd-a415-4ece-b79e-3b0f8afe3d30)
-2.Dashboard:
+# 2.Dashboard:
   ![image](https://github.com/user-attachments/assets/f17d2743-cf63-4eba-95be-ed54e1ecf837)
-3.Student Page:
+# 3.Student Page:
   ![image](https://github.com/user-attachments/assets/26f85422-e8bc-41b0-a697-7b746f9deac7)
-4.Exam Page:
+# 4.Exam Page:
   ![image](https://github.com/user-attachments/assets/cdcf9d10-327e-4e37-9747-d019da89a6f4)
-5.Mark Information Page:
+# 5.Mark Information Page:
   ![image](https://github.com/user-attachments/assets/3ea987ea-3158-4e71-b2a3-ba71a9772a19)
-6.Result Page:
+# 6.Result Page:
   ![image](https://github.com/user-attachments/assets/f192c724-16fe-4c65-b4ef-efc131a20f45)
 
 
